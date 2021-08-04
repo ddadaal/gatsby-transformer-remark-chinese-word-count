@@ -1,4 +1,9 @@
+**DEPRECATED!**
+
+Using [patch-package](https://github.com/ds300/patch-package/) to amend `gatsby-transformer-remark` is a better idea. A patch file doing exactly the changes in the repo can be found in my gist [here](https://gist.github.com/ddadaal/5cb39a1b4ec0b3ede7208347cb36e75e).
+
 # gatsby-transformer-remark-chinese-word-count
+
 
 Reference project for the solution mentioned in the article [修复gatsby-transformer-remark插件中文词数统计错误问题](https://ddadaal.me/articles/fix-gatsby-transformer-remark-chinese-word-count). 
 
